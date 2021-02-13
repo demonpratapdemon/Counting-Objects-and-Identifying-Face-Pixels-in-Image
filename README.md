@@ -4,7 +4,7 @@ Various OpenCV algorithms used for counting the number of objects and identifyin
 # Counting the Number of Books in Image
 Given an image of the bookshelf, we have to find the approximate the number of books without using any detector and only OpenCV basic algorithms.
 
-**Approaches :
+**Approaches : **
 ========================
 1. Contours Detection with Threshold
 2. Contours Detection with Threshold and Morphological Operator
@@ -16,7 +16,7 @@ Given an image of the bookshelf, we have to find the approximate the number of b
 # Identifying Face Pixels from Selfie Image
 Given an image of a selfie or an image focussed on a person, we need to identify the face pixels from the image excluding others
 
-**Approaches :
+**Approaches : **
 ========================
 1. Clustering as Segmentation using **KMeans**
 2. Segmentation based on Color Space
